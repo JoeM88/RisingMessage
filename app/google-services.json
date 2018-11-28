@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "806034505086",
+    "firebase_url": "https://risingmessage.firebaseio.com",
+    "project_id": "risingmessage",
+    "storage_bucket": "risingmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806034505086:android:6760fd7f06aebf6f",
+        "android_client_info": {
+          "package_name": "e.josephmolina.risingmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806034505086-1645uotkcqkt17diu528fpposdcrccgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOD49mzD2emkv4-1q4MYPnKRsL2KVrG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
